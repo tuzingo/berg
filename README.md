@@ -1,24 +1,20 @@
-# README
+# Wilkomen für Berg!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installing 
 
-Things you may want to cover:
+### Using Berg Assistent
+    $ curl https://archive.tuzinrs.studio/berg-assistent | --configure 
+    
+### Manually install
+    # yarn build
 
-* Ruby version
+    # bundle install
 
-* System dependencies
+    # rails serve
 
-* Configuration
+# About Berg 
+Muitas escolas no Brasil possuem computadores (incluindo tablets e celulares) com acesso a internet mas os processos internos delas não são informatizados, normalmente por falta de um sistema simples (por favor não confunda simples com simplório) e intuitivo, nossa intenção é fornecer um sistema que possa ser usado por qualquer pessoa que possa crescer/extender-se de forma rápida e sustentável e que seja seguro para uso.
 
-* Database creation
+Atualmente o Berg está sendo construído com Ruby on Rails e JavaScript para que possamos entregar um software funcional no menor tempo possível
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<!-- To translate/improve-->
